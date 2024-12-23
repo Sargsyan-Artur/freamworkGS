@@ -16,4 +16,3 @@ uat environment - npx cross-env LIFECYCLE=uat wdio ./src/configs/wdio.local.conf
 EPAM Report Portal
 How to use:
 In order to enable report portal, please,  set variable RP_ENABLED=true in .env file.
-Link to RP: http://gsavaldapp003.npe1.greensky.net:8084/ui/#user-profile
